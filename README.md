@@ -9,7 +9,7 @@ To compose this document the Universal Dependencies Treebank was used, which con
 
 The lexical unit chosen was the lemma. Furthermore, the "words" were ranked according to their frequency of appearance. They were also classified into classes as following the equation below:
 
-$ \lfloor 0.5 - log_2(\frac{Frequency \ of \ a \ given \ word}{Frequency \ of \ most \ common \ word}) \rfloor $
+![equation](https://latex.codecogs.com/svg.image?\lfloor%200.5%20-%20log_2(\frac{Frequency%20\%20of%20\%20a%20\%20given%20\%20word}{Frequency%20\%20of%20\%20most%20\%20common%20\%20word})%20\rfloor)
 
 ### References
 
